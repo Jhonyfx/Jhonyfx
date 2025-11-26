@@ -34,12 +34,7 @@ Aquí están las herramientas y lenguajes que utilizo en mi día a día:
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhonyfx&show_icons=true&theme=radical" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonyfx&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Gif final" />
