@@ -13,7 +13,7 @@
 - 🌱 Estoy aprendiendo profundamente sobre administración de **Servidores Linux**.
 - 👯 Busco colaborar en proyectos de código abierto.
 - 💬 Pregúntame sobre: **Desarrollo Web y configuración de entornos Linux.**
-- 📫 Cómo contactarme: **[jhonyfernandox@gmail.com]**
+- 📫 Cómo contactarme: **jhonyfernandox@gmail.com**
 
 ---
 
